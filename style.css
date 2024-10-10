@@ -138,3 +138,14 @@ footer span {
     border-radius: 0;
   }
 }
+@media screen and (max-width: 450px) {
+  main {
+    padding: 1.5rem;
+    max-width: 100%;
+    border-radius: 0;
+    box-shadow: none;
+  }
+  body {
+    background-color: #fff;
+  }
+}
